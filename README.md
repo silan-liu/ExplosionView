@@ -1,2 +1,5 @@
 # ExplosionView
-view has explosion effect
+View has explosion effect
+
+![gif](explosion.gif)
+
